@@ -8,7 +8,7 @@ namespace WebUAT_Measurements
 {
     class MyronWebUAT
     {
-        //Commit test for GIThub
+        //Commit test for GIThub samuel
 
         //Characters bank
         public static string id_charactersbank = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
