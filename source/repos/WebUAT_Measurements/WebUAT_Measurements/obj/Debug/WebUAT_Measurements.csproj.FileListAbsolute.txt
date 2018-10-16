@@ -1,0 +1,12 @@
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\bin\Debug\WebUAT_Measurements.exe.config
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\bin\Debug\WebUAT_Measurements.exe
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\bin\Debug\WebUAT_Measurements.pdb
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\obj\Debug\WebUAT_Measurements.csprojResolveAssemblyReference.cache
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\obj\Debug\WebUAT_Measurements.Form1.resources
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\obj\Debug\WebUAT_Measurements.Properties.Resources.resources
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\obj\Debug\WebUAT_Measurements.csproj.GenerateResource.Cache
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\obj\Debug\WebUAT_Measurements.csproj.CoreCompileInputs.cache
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\obj\Debug\WebUAT_Measurements.exe
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\obj\Debug\WebUAT_Measurements.pdb
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rlaya\source\repos\WebUAT_Measurements\WebUAT_Measurements\bin\Debug\Newtonsoft.Json.xml
